@@ -1,3 +1,3 @@
-x = int(input())
-y = int(input())
-print(x + y)
+x = int(input("Введіть число: "))
+y = int(input("Введіть ще одне: "))
+print("Сума чисел:", x + y)
